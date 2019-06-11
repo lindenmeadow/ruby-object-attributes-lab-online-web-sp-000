@@ -3,7 +3,7 @@ class Dog
 
   end
 
-  def name 
+  def name
 
   end
 end
